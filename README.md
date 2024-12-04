@@ -21,7 +21,3 @@ BigCVE's `.pkl` files have only been tested on a Graph Neural Network but it has
 6. Assign each edge/node in the matched .dot file a unique integer ID by running Data_Prep/dot_cleaner.py
 7. Convert into a PKL file using cpg_to_pickle in Data_Prep.
 8. Send into VulGNN
-### For CVEFixes
-
-1. 
-
